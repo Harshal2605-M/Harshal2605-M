@@ -9,7 +9,7 @@
 ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═╝  ╚═╝╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer+in+Making;Building+Real-World+AI+Systems;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Deep+Learning;Turning+Ideas+into+Intelligent+Products+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Building+Real-World+AI+Systems;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Deep+Learning;Turning+Ideas+into+Intelligent+Products+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -129,15 +129,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Harshal2605-M&theme=matrix&no-frame=true&row=1&column=7)
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
