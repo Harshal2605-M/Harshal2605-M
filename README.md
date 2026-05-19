@@ -18,10 +18,10 @@
 ## 🧠 About Me
 
 ```python
-class YashBora:
+class HarshalMahajan:
     def __init__(self):
-        self.name        = "Yash Yogesh Bora"
-        self.role        = "AI & Data Science Engineering Student (3rd Year)"
+        self.name        = "Harshal Sambhaji Mahajan"
+        self.role        = "AI & Data Science Engineering Student "
         self.college     = "PVGCOET, Pune"
         self.focus       = ["LLMs", "RAG", "AI Agents", "Deep Learning", "AI Systems"]
         self.currently   = "Building an AI Code Assistant using PDF-RAG + Gemini"
@@ -41,7 +41,7 @@ me.say_hi()
 ## 🚀 Current Focus
 
 > 🔭 **Working on:** AI Code Assistant — PDF-RAG + Flask + Gemini + Embeddings  
-> 🏗️ **Building:** Warehouse Space Detection System using YOLOv8 + Video Analytics  
+> 🏗️ **Building:** Azure Demand Forecasting and Optimization System  
 > 🤖 **Exploring:** AI Workflow Automation with n8n + LLM Intent Matching  
 > 📖 **Learning:** Deep Learning architectures, AI System Design, SentenceTransformers  
 > 🎯 **Goal:** Ship AI products that solve real problems
@@ -116,7 +116,7 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YashBora21&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshal2605-M&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBora21&layout=compact&theme=chartreuse-dark&hide_border=true" />
 
 </div>
@@ -133,7 +133,7 @@ me.say_hi()
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YashBora21&theme=matrix&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Harshal2605-M&theme=matrix&no-frame=true&row=1&column=7)
 
 </div>
 
@@ -143,7 +143,7 @@ me.say_hi()
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashBora21&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshal2605-M&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -153,10 +153,9 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashbora21)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yashbora21)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashbora21@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashBora21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal260105/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshalsmahajan05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshal2605-M)
 
 </div>
 
@@ -170,6 +169,6 @@ me.say_hi()
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=YashBora21&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Harshal2605-M&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
