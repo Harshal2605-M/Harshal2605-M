@@ -32,7 +32,7 @@ class HarshalMahajan:
     def say_hi(self):
         print("Thanks for stopping by! Let's build something intelligent together.")
 
-me = YashBora()
+me = HarshalMahajan()
 me.say_hi()
 ```
 
