@@ -1,62 +1,175 @@
 <div align="center">
 
-# A Developer building AI products
+```
+██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗      █████╗ ██╗
+██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝     ██╔══██╗██║
+██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗    ███████║██║
+██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║    ██╔══██║██║
+██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝    ██║  ██║██║
+╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═╝  ╚═╝╚═╝
+```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=C7F000&center=true&vCenter=true&width=900&lines=HARSHAL+MAHAJAN;AI+%7C+DATA+SCIENCE+ENGINEER;LLMs+%7C+RAG+%7C+PYTHON;BUILDING+COOL+AI+SYSTEMS" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshal2605-M&theme=github_dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer+in+Making;Building+Real-World+AI+Systems;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Deep+Learning;Turning+Ideas+into+Intelligent+Products+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🌐 Socials
+## 🧠 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](YOUR_LINKEDIN)
+```python
+class YashBora:
+    def __init__(self):
+        self.name        = "Yash Yogesh Bora"
+        self.role        = "AI & Data Science Engineering Student (3rd Year)"
+        self.college     = "PVGCOET, Pune"
+        self.focus       = ["LLMs", "RAG", "AI Agents", "Deep Learning", "AI Systems"]
+        self.currently   = "Building an AI Code Assistant using PDF-RAG + Gemini"
+        self.learning    = ["AI Engineering", "Scalable AI Systems", "MLOps Basics"]
+        self.goal        = "Build impactful AI products & become a full-stack AI Engineer"
+        self.fun_fact    = "I automate things so I can focus on building more things 🤖"
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge)](mailto:YOUR_EMAIL)
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something intelligent together.")
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](YOUR_LINK)
+me = YashBora()
+me.say_hi()
+```
 
 ---
 
-# 💻 Tech Stack:
+## 🚀 Current Focus
 
+> 🔭 **Working on:** AI Code Assistant — PDF-RAG + Flask + Gemini + Embeddings  
+> 🏗️ **Building:** Warehouse Space Detection System using YOLOv8 + Video Analytics  
+> 🤖 **Exploring:** AI Workflow Automation with n8n + LLM Intent Matching  
+> 📖 **Learning:** Deep Learning architectures, AI System Design, SentenceTransformers  
+> 🎯 **Goal:** Ship AI products that solve real problems
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+### 🧩 LLMs & RAG
+![LLMs](https://img.shields.io/badge/LLMs-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Architecture-4ECDC4?style=for-the-badge&logo=googlebard&logoColor=white)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-764ABC?style=for-the-badge&logo=huggingface&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+### ⚙️ Backend & Databases
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-
-![YOLO](https://img.shields.io/badge/YOLO-AI-green?style=for-the-badge)
-
-![LLMs](https://img.shields.io/badge/LLMs-GenerativeAI-purple?style=for-the-badge)
-
-![RAG](https://img.shields.io/badge/RAG-System-red?style=for-the-badge)
+### 🔧 Languages & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-# 📊 Weekly development breakdown
+## 🏗️ Featured Projects
 
-<!--START_SECTION:waka-->
-```text
-Python      12 hrs   ███████████████   65%
-Flask       4 hrs    ███              18%
-RAG         2 hrs    ██               10%
-Markdown    1 hr     █                7%
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI Code Assistant</h3>
+      <p>PDF-RAG architecture with Gemini embeddings. Upload a codebase or doc, ask questions, get intelligent answers.</p>
+      <p><strong>Stack:</strong> Python · Flask · Gemini · SentenceTransformers · RAG</p>
+    </td>
+    <td width="50%">
+      <h3>📦 Warehouse Space Detection</h3>
+      <p>Real-time video analytics using YOLOv8 to detect and report warehouse space utilization with Excel reporting.</p>
+      <p><strong>Stack:</strong> Python · YOLOv8 · OpenCV · Excel Automation</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧠 AI Expert System</h3>
+      <p>Intent-matching AI workflow built on n8n — routes user queries to the right AI agent automatically.</p>
+      <p><strong>Stack:</strong> n8n · LLMs · Intent Matching · AI Workflow</p>
+    </td>
+    <td width="50%">
+      <h3>📊 Trader Behavior Analysis</h3>
+      <p>Market sentiment + trader behavior analysis using time-series data and statistical models.</p>
+      <p><strong>Stack:</strong> Python · Pandas · Matplotlib · Scikit-Learn</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YashBora21&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBora21&layout=compact&theme=chartreuse-dark&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YashBora21&theme=chartreuse-dark&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=YashBora21&theme=matrix&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashBora21&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashbora21)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yashbora21)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashbora21@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashBora21)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  "The best way to predict the future is to build it with AI" ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=YashBora21&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
