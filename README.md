@@ -13,7 +13,6 @@
 
 <br/>
 
-<img src="dev-matrix-card.svg" alt="Dev Matrix Card" />
 
 </div>
 
