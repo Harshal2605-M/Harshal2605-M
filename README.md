@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ██╗
-██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗██║
-███████║███████║██████╔╝███████╗███████║███████║██║
-██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║██╔══██║██║
-██║  ██║██║  ██║██║  ██║███████║██║  ██║██║  ██║███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-```
+# HARSHAL.AI
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Engineering+Student;Building+ML+Models+%26+AI+Automation+Systems;Azure+%7C+PySpark+%7C+n8n+%7C+Deep+Learning;Turning+Data+into+Intelligent+Products+%F0%9F%9A%80" alt="Typing SVG" />
 
