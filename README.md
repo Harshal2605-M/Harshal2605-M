@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Harshal Mahajan</h1>
 
-<!--
-**Harshal2605-M/Harshal2605-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI & Data Science Engineer | Building AI Products
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 3rd Year AI & DS Engineering Student
+- 🤖 Building AI Code Assistant
+- 🔥 Learning LLMs, RAG and AI Systems
+- 📚 Exploring Data Science and AI Engineering
+- ⚡ Goal: Build real AI products
+
+---
+
+## 💻 Tech Stack
+
+Python • C++ • Flask • FastAPI • TensorFlow • MongoDB • PostgreSQL
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Harshal2605-M&show_icons=true&theme=tokyonight)
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshal2605-M&theme=tokyonight)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal2605-M&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Featured Projects
+
+### AI Code Assistant
+PDF-RAG + Flask + Gemini
+
+### Warehouse Detection AI
+YOLOv8 + Video Analysis
+
+### AI Expert System
+n8n + AI workflow
