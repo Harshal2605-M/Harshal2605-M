@@ -1,60 +1,62 @@
 <div align="center">
 
-# Harshal Mahajan
+# A Developer building AI products
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Building+AI+Products;LLMs+%7C+RAG+%7C+Python;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=C7F000&center=true&vCenter=true&width=900&lines=HARSHAL+MAHAJAN;AI+%7C+DATA+SCIENCE+ENGINEER;LLMs+%7C+RAG+%7C+PYTHON;BUILDING+COOL+AI+SYSTEMS" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshal2605-M&theme=github_dark" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🌐 Socials
 
-🎓 AI & Data Science Engineering Student
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](YOUR_LINKEDIN)
 
-🤖 Building AI Code Assistant
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge)](mailto:YOUR_EMAIL)
 
-📚 Learning LLM Systems & AI Architecture
-
-🔥 Exploring RAG, AI Agents and Deep Learning
-
-⚡ Goal: Build AI products that people use
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](YOUR_LINK)
 
 ---
 
-## 🚀 Tech Stack
+# 💻 Tech Stack:
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
 
-![Postgres](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+![YOLO](https://img.shields.io/badge/YOLO-AI-green?style=for-the-badge)
+
+![LLMs](https://img.shields.io/badge/LLMs-GenerativeAI-purple?style=for-the-badge)
+
+![RAG](https://img.shields.io/badge/RAG-System-red?style=for-the-badge)
 
 ---
 
-## 📊 Stats
+# 📊 Weekly development breakdown
 
-![stats](https://github-readme-stats.vercel.app/api?username=Harshal2605-M&show_icons=true&theme=tokyonight)
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshal2605-M&theme=tokyonight)
-
----
-
-## 🔥 Featured Projects
-
-### AI Code Assistant
-PDF-RAG + Flask + Gemini
-
-### Warehouse AI Detection
-YOLOv8 + Video Analysis
-
-### AI Expert System
-n8n workflow + AI
+<!--START_SECTION:waka-->
+```text
+Python      12 hrs   ███████████████   65%
+Flask       4 hrs    ███              18%
+RAG         2 hrs    ██               10%
+Markdown    1 hr     █                7%
