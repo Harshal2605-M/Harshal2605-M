@@ -1,34 +1,50 @@
-<h1 align="center">Hi 👋 I'm Harshal Mahajan</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Data Science Engineer | Building AI Products
-</h3>
+# Harshal Mahajan
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Building+AI+Products;LLMs+%7C+RAG+%7C+Python;Always+Learning+🚀" />
 
-## 🚀 About Me
-
-- 🎓 3rd Year AI & DS Engineering Student
-- 🤖 Building AI Code Assistant
-- 🔥 Learning LLMs, RAG and AI Systems
-- 📚 Exploring Data Science and AI Engineering
-- ⚡ Goal: Build real AI products
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
 
-Python • C++ • Flask • FastAPI • TensorFlow • MongoDB • PostgreSQL
+🎓 AI & Data Science Engineering Student
+
+🤖 Building AI Code Assistant
+
+📚 Learning LLM Systems & AI Architecture
+
+🔥 Exploring RAG, AI Agents and Deep Learning
+
+⚡ Goal: Build AI products that people use
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
+
+![Postgres](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
+
+---
+
+## 📊 Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Harshal2605-M&show_icons=true&theme=tokyonight)
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshal2605-M&theme=tokyonight)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal2605-M&layout=compact&theme=tokyonight)
 
 ---
 
@@ -37,8 +53,8 @@ Python • C++ • Flask • FastAPI • TensorFlow • MongoDB • PostgreSQL
 ### AI Code Assistant
 PDF-RAG + Flask + Gemini
 
-### Warehouse Detection AI
+### Warehouse AI Detection
 YOLOv8 + Video Analysis
 
 ### AI Expert System
-n8n + AI workflow
+n8n workflow + AI
