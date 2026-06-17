@@ -192,9 +192,11 @@ me.say_hi()
 <div align="center">
 
 ```
-                        ╔══════════════════════════════════════════════════════════════╗
-                        ║  "The best way to predict the future is to build it with AI" ║
-                        ╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  "The best way to predict the future is to build it with AI" ║
+╚══════════════════════════════════════════════════════════════╝
 ```
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Harshal2605-M&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
