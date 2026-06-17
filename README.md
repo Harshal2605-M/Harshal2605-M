@@ -197,6 +197,6 @@ me.say_hi()
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=Harshal2605-M&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
+
 
 </div>
